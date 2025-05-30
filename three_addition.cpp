@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"This is calculator"<<endl;
+    int a=10,b=20,c=99;
+    cout<<(a+b+c)<<endl;
     return 0;
 }
